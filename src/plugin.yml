@@ -3,3 +3,7 @@ version: 1.0
 author: Aryan
 main: com.aryan.MinecraftLogicGates.MinecraftLogicGates
 api-version: 1.14
+commands:
+  spawn:
+    description: Spawns a schematic at the player's location
+    usage: /spawn
