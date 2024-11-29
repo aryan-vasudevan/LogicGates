@@ -1,0 +1,5 @@
+name: MinecraftLogicGates
+version: 1.0
+author: Aryan
+main: com.aryan.MinecraftLogicGates.MinecraftLogicGates
+api-version: 1.14
