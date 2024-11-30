@@ -1,6 +1,6 @@
-# LogicGateHolograms Plugin
+# Logi(C)raft Plugin
 
-**LogicGateHolograms** is a Minecraft plugin designed to teach players the basics of logic gates using holographic visualizations and redstone. The plugin reads schematic files of logic gates and projects them as holograms in the game world. Players can interact with these holograms to learn about each gate's functionality, with explanatory text displayed in the chat.
+**Logi(C)raft** is a Minecraft plugin designed to teach players the basics of logic gates using holographic visualizations and redstone. The plugin reads schematic files of logic gates and projects them as holograms in the game world. Players can interact with these holograms to learn about each gate's functionality, with explanatory text displayed in the chat.
 
 ---
 
@@ -47,8 +47,8 @@
 ## Permissions
 | Permission                   | Description                                  |
 |------------------------------|----------------------------------------------|
-| `logicgateholograms.use`     | Allows the player to load and clear holograms. |
-| `logicgateholograms.admin`   | Allows managing custom schematics.          |
+| `Logi(C)raft.use`     | Allows the player to load and clear holograms. |
+| `Logi(C)raft.admin`   | Allows managing custom schematics.          |
 
 ---
 
